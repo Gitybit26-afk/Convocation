@@ -204,7 +204,7 @@ body {
 }
 
 /* Mobile phone layout */
-@media (max-width: 620px) {
+@media (max-width: 689px) {
 
     body {
         padding: 10px 5px;
