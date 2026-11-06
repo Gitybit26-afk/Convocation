@@ -9,6 +9,7 @@ body {
     background: #eeeeee;
     padding: 25px 12px;
     color: #222;
+    Height: 600px;
 }
 .main {
   background-color: #0a51cc;
@@ -208,6 +209,7 @@ body {
 
     body {
         padding: 10px 5px;
+        Height:auto;
     }
 
     .invitation {
